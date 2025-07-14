@@ -47,7 +47,9 @@ The device transmits SpO₂ and PPG data to a mobile application via **Bluetooth
 
 Below are the screenshots of the mobile application:
 
-<img src="images/aplikasi.png" width="300"/> <img src="images/aplikasi2.png" width="300"/>
+![Wiring Diagram](images/aplikasi.png)
+
+![Wiring Diagram](images/aplikasi2.png)
 
 ## 📦 File Overview
 
