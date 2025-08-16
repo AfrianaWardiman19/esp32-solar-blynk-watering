@@ -1,5 +1,5 @@
 # Portable Pulse Oximetry System using MAX30102 and Solar Charging
-
+The automatic system uses ESP32 for watering plants, then the watering data is channeled to a cellphone using the Blink platform (Wifi), and the energy source uses renewable energy, namely mini solar panels.
 
 ## 🔌 Wiring Diagram
 
@@ -45,4 +45,5 @@ Feel free to study, modify, and develop it further in a responsible manner.
 ## 📝 License
 
 This project is open-source and available under the MIT License.
+
 
